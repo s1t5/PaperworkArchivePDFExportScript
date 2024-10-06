@@ -24,4 +24,4 @@ Shell script to export the entire paperwork archive to an output folder and outp
    Open your terminal and run the script.
 
    ```bash
-   bash paperwork_archive_manager.sh
+   bash exportPaperwork.sh
